@@ -1,0 +1,14 @@
+C:\Users\Knar\source\repos\BoxingCasting\bin\Debug\net8.0\BoxingCasting.exe
+C:\Users\Knar\source\repos\BoxingCasting\bin\Debug\net8.0\BoxingCasting.deps.json
+C:\Users\Knar\source\repos\BoxingCasting\bin\Debug\net8.0\BoxingCasting.runtimeconfig.json
+C:\Users\Knar\source\repos\BoxingCasting\bin\Debug\net8.0\BoxingCasting.dll
+C:\Users\Knar\source\repos\BoxingCasting\bin\Debug\net8.0\BoxingCasting.pdb
+C:\Users\Knar\source\repos\BoxingCasting\obj\Debug\net8.0\BoxingCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Knar\source\repos\BoxingCasting\obj\Debug\net8.0\BoxingCasting.AssemblyInfoInputs.cache
+C:\Users\Knar\source\repos\BoxingCasting\obj\Debug\net8.0\BoxingCasting.AssemblyInfo.cs
+C:\Users\Knar\source\repos\BoxingCasting\obj\Debug\net8.0\BoxingCasting.csproj.CoreCompileInputs.cache
+C:\Users\Knar\source\repos\BoxingCasting\obj\Debug\net8.0\BoxingCasting.dll
+C:\Users\Knar\source\repos\BoxingCasting\obj\Debug\net8.0\refint\BoxingCasting.dll
+C:\Users\Knar\source\repos\BoxingCasting\obj\Debug\net8.0\BoxingCasting.pdb
+C:\Users\Knar\source\repos\BoxingCasting\obj\Debug\net8.0\BoxingCasting.genruntimeconfig.cache
+C:\Users\Knar\source\repos\BoxingCasting\obj\Debug\net8.0\ref\BoxingCasting.dll
